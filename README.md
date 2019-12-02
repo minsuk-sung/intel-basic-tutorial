@@ -1,7 +1,7 @@
 # 인텔코리아 강의자료 - 딥러닝 기초 튜토리얼
 (Intel Koera - Basic Tutorial for Deep Learning)
 
-![](./img/intel-logo.jpg)
+![](./pandas/img/intel-logo.jpg)
 
 본 강의 자료는 인텔코리아에서 진행하는 딥러닝 관련된 교육 자료이므로 무단으로 사용시 법적 제재가 있을 수 있습니다. 
 
