@@ -22,6 +22,10 @@ import numpy as np
 6. NumPy **Slicing**
 7. NumPy **Broadcasting**
 
+## NumPy Cheat Sheet
+
+![](./img/numpy-cheat-sheet.png)
+
 ## Reference
 - https://www.intel.com
 - https://numpy.org/
