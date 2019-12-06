@@ -7,7 +7,7 @@
 import pandas as pd
 ```
 
- 본 강의에서는 위와 같이 Pandas 라이브러리를 `pd`라는 단어로 축약하여 부를 예정입니다. 이 점 확인하시길 바랍니다.
+ 본 강의에서는 위와 같이 `Pandas` 라이브러리를 `pd`라는 단어로 축약하여 부를 예정입니다. 이 점 확인하시길 바랍니다.
 
 ## Install Pandas
 본 강의는 `pandas==0.25.3` 에서 만들어졌습니다.
@@ -26,9 +26,10 @@ import pandas as pd
 |2강 | `DataFrame` |
 |3강 | 데이터 적재 |
 |4강 | Merge, Concat |
-|5강 | 함수적용과 맵핑 |
-|6강 | 통계와 정렬 |
-|7강 | Pivot_table, group_by |
+|5강| 계층색인|
+|6강 | 함수적용과 맵핑 |
+|7강 | 통계와 정렬 |
+|8강 | Pivot_table, group_by |
 
 ## Reference
 - https://pandas.pydata.org
