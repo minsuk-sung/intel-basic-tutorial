@@ -26,9 +26,9 @@
 ### Essential Library
 본 강의자료는 아래와 같은 환경에서 실습을 구성하였습니다.  
 > `Python` : **3.6**  
-> `NumPy` : **1.16**  
-> `Pandas` : **0.25.3**
-> `OpenCV`: **4.1.1**
+> `NumPy` : **1.16**   
+> `Pandas` : **0.25.3**  
+> `OpenCV`: **4.1.1**  
 
 ---
 
@@ -58,3 +58,8 @@
 ## Contact
 > 성민석(Minsuk Sung) : mssung94@gmail.com  
 > 류회성(Hoesung Ryu) : skainof23@gmail.com
+
+## Licence
+The MIT License (MIT)
+
+Copyright (c) 2019 Minsuk Sung, Hoesung Ryu
